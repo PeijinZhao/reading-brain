@@ -1,0 +1,11 @@
+# generated data — never commit personal highlights
+output/
+reading-brain/output/
+阅读大脑检索台.html
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+**/.DS_Store
+.venv/
